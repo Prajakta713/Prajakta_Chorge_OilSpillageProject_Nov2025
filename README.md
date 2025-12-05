@@ -1,4 +1,4 @@
-# RavillaPoojitha_OilSpillageProject_Nov2025
+# Prajakta_Chorge_OilSpillageProject_Nov2025
 # 🌊 Oil Spill Detection System
 
 An innovative, comprehensive web application for detecting oil spills in images and videos using advanced YOLOv11 deep learning model. Built with Streamlit for an intuitive, user-friendly interface.
